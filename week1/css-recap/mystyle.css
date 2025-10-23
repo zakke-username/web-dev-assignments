@@ -1,0 +1,35 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+  color: darkgreen;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: darkgreen;
+}
+
+img {
+  border: 5px solid black;
+  border-radius: 20px;
+}
+
+table,
+tr,
+td,
+th {
+  border: 1px solid gray;
+  border-collapse: collapse;
+  padding: 5px;
+}
+
+tr:nth-child(even) {
+  background-color: lightblue;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
