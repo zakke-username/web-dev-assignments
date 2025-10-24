@@ -27,4 +27,20 @@ const todoList = [
   },
 ];
 
-// add your code here
+let list = document.querySelector('#list');
+
+for (let item of todoList) {
+  let li = document.createElement('li');
+
+  let checkbox = document.createElement('input');
+  checkbox.type = 'checkbox';
+  checkbox.id = item.id;
+  checkbox.checked = item.completed;
+  li.appendChild(checkbox);
+
+  let label = document.createElement('label');
+  label.htmlFor = checkbox;
+  li.appendChild(label);
+
+  list.appendChild(li);
+}
