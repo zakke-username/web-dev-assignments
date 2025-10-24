@@ -1,4 +1,3 @@
-// array for todo list
 const todoList = [
   {
     id: 1,
@@ -27,4 +26,14 @@ const todoList = [
   },
 ];
 
-// add your code here
+let list = document.querySelector('#todo-list');
+
+for (let item of todoList) {
+  let htmlString = `
+    <li>
+      <input type="checkbox" id="todo-${item.id}" ${item.completed ? 'checked' : ''}></input>
+      <label for="todo-${item.id}">${item.task}</label>
+    </li>
+  `;
+  list.insertAdjacentHTML('beforeend', htmlString);
+}
