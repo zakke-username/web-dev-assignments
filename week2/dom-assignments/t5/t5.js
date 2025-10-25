@@ -1,6 +1,6 @@
 const restaurants = [
   {
-    location: {type: 'Point', coordinates: [25.018456, 60.228982]},
+    location: { type: 'Point', coordinates: [25.018456, 60.228982] },
     _id: '6470d38ecb12107db6fe24c1',
     companyId: 68,
     name: 'Ravintola Ladonlukko',
@@ -13,7 +13,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.903147, 60.221729]},
+    location: { type: 'Point', coordinates: [24.903147, 60.221729] },
     _id: '6470d38ecb12107db6fe24c2',
     companyId: 1580536,
     name: 'Ravintola Stadin AO Ilkantie',
@@ -25,7 +25,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.95576, 60.196672]},
+    location: { type: 'Point', coordinates: [24.95576, 60.196672] },
     _id: '6470d38ecb12107db6fe24c3',
     companyId: 85,
     name: 'Stadin AO - Hattulantie 2',
@@ -37,7 +37,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.94886, 60.218638]},
+    location: { type: 'Point', coordinates: [24.94886, 60.218638] },
     _id: '6470d38ecb12107db6fe24c4',
     companyId: 179,
     name: 'Stadin AO Kullervonkatu',
@@ -49,7 +49,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.946847, 60.194701]},
+    location: { type: 'Point', coordinates: [24.946847, 60.194701] },
     _id: '6470d38ecb12107db6fe24c5',
     companyId: 157,
     name: 'Stadin AO TK 23',
@@ -61,7 +61,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.950631, 60.169096]},
+    location: { type: 'Point', coordinates: [24.950631, 60.169096] },
     _id: '6470d38ecb12107db6fe24bf',
     companyId: 1045996,
     name: 'Helsingin yliopisto Päärakennus',
@@ -73,7 +73,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.479222, 60.977511]},
+    location: { type: 'Point', coordinates: [24.479222, 60.977511] },
     _id: '6470d38ecb12107db6fe24be',
     companyId: 10229,
     name: 'Ravintola Visis - HAMK Hämeenlinna',
@@ -85,7 +85,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [23.856847, 61.449716]},
+    location: { type: 'Point', coordinates: [23.856847, 61.449716] },
     _id: '6470d38ecb12107db6fe24cb',
     companyId: 111,
     name: 'Ravintola Hertsi',
@@ -97,7 +97,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [22.826006, 62.788814]},
+    location: { type: 'Point', coordinates: [22.826006, 62.788814] },
     _id: '6470d38ecb12107db6fe24ca',
     companyId: 109,
     name: 'Ravintola ja kahvila Kampustalo ',
@@ -109,7 +109,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [22.821736, 62.790536]},
+    location: { type: 'Point', coordinates: [22.821736, 62.790536] },
     _id: '6470d38ecb12107db6fe24c9',
     companyId: 108,
     name: 'Ravintola Frami',
@@ -121,7 +121,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [23.160741, 63.833899]},
+    location: { type: 'Point', coordinates: [23.160741, 63.833899] },
     _id: '6470d38ecb12107db6fe24c8',
     companyId: 129,
     name: 'Campusravintola',
@@ -133,7 +133,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [23.778004, 61.495009]},
+    location: { type: 'Point', coordinates: [23.778004, 61.495009] },
     _id: '6470d38ecb12107db6fe24cc',
     companyId: 116,
     name: 'Ravintola Linna',
@@ -145,7 +145,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [22.22723, 60.4396]},
+    location: { type: 'Point', coordinates: [22.22723, 60.4396] },
     _id: '6470d38ecb12107db6fe24ce',
     companyId: 100,
     name: 'Ravintola Fiskarholmen - Auriga Business Center',
@@ -157,7 +157,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [22.292545, 60.451904]},
+    location: { type: 'Point', coordinates: [22.292545, 60.451904] },
     _id: '6470d38ecb12107db6fe24cd',
     companyId: 102,
     name: 'Flavoria Medisiina D',
@@ -169,7 +169,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [22.300353, 60.452543]},
+    location: { type: 'Point', coordinates: [22.300353, 60.452543] },
     _id: '6470d38ecb12107db6fe24cf',
     companyId: 98,
     name: 'Ravintola Old Mill',
@@ -181,7 +181,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [23.997606, 61.279413]},
+    location: { type: 'Point', coordinates: [23.997606, 61.279413] },
     _id: '6470d38ecb12107db6fe24d0',
     companyId: 117,
     name: 'Ravintola Koski - HAMK Valkeakoski',
@@ -193,7 +193,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.843822, 60.258218]},
+    location: { type: 'Point', coordinates: [24.843822, 60.258218] },
     _id: '6470d38ecb12107db6fe24d1',
     companyId: 152,
     name: 'Metropolia Myyrmäki',
@@ -205,7 +205,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [25.017745, 60.250063]},
+    location: { type: 'Point', coordinates: [25.017745, 60.250063] },
     _id: '6470d38ecb12107db6fe24c6',
     companyId: 180,
     name: 'Stadin AO Vilppulantie',
@@ -217,7 +217,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [23.0664, 61.764526]},
+    location: { type: 'Point', coordinates: [23.0664, 61.764526] },
     _id: '6470d38ecb12107db6fe24c7',
     companyId: 115,
     name: 'Ravintola Ilona',
@@ -229,7 +229,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.8256169, 60.1846499]},
+    location: { type: 'Point', coordinates: [24.8256169, 60.1846499] },
     _id: '6470d390cb12107db6fe24e9',
     companyId: 3087,
     name: 'A Bloc',
@@ -241,7 +241,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.9241528, 60.1711969]},
+    location: { type: 'Point', coordinates: [24.9241528, 60.1711969] },
     _id: '6470d391cb12107db6fe24eb',
     companyId: 3406,
     name: 'Hanken',
@@ -253,7 +253,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.9588696, 60.1810957]},
+    location: { type: 'Point', coordinates: [24.9588696, 60.1810957] },
     _id: '6470d391cb12107db6fe24ed',
     companyId: 3067,
     name: 'Kookos',
@@ -265,7 +265,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.7586024, 60.223184]},
+    location: { type: 'Point', coordinates: [24.7586024, 60.223184] },
     _id: '6470d391cb12107db6fe24ef',
     companyId: 3208,
     name: 'Metropolia',
@@ -277,7 +277,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [29.7413311, 62.6050148]},
+    location: { type: 'Point', coordinates: [29.7413311, 62.6050148] },
     _id: '6470d391cb12107db6fe24f1',
     companyId: 41704,
     name: 'Futura',
@@ -289,7 +289,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.8323964, 60.18514089999999]},
+    location: { type: 'Point', coordinates: [24.8323964, 60.18514089999999] },
     _id: '6470d391cb12107db6fe24f3',
     companyId: 3101,
     name: 'Dipoli ravintolat',
@@ -301,7 +301,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.922711, 60.18219649999999]},
+    location: { type: 'Point', coordinates: [24.922711, 60.18219649999999] },
     _id: '6470d391cb12107db6fe24f5',
     companyId: 3704,
     name: 'Töölö 37',
@@ -313,7 +313,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [27.6367251, 62.8908459]},
+    location: { type: 'Point', coordinates: [27.6367251, 62.8908459] },
     _id: '6470d391cb12107db6fe24f7',
     companyId: 439,
     name: 'Tietoteknia',
@@ -325,7 +325,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [25.7150496, 66.4853375]},
+    location: { type: 'Point', coordinates: [25.7150496, 66.4853375] },
     _id: '6470d391cb12107db6fe24f9',
     companyId: 60201,
     name: 'Petronella',
@@ -337,7 +337,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [21.8005159, 61.4923989]},
+    location: { type: 'Point', coordinates: [21.8005159, 61.4923989] },
     _id: '6470d391cb12107db6fe24fb',
     companyId: 3659,
     name: 'Sofia',
@@ -349,7 +349,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [25.509396, 65.0087233]},
+    location: { type: 'Point', coordinates: [25.509396, 65.0087233] },
     _id: '6470d391cb12107db6fe24fd',
     companyId: 226,
     name: 'Alwari',
@@ -361,7 +361,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [29.7444642, 62.60484529999999]},
+    location: { type: 'Point', coordinates: [29.7444642, 62.60484529999999] },
     _id: '6470d391cb12107db6fe24ff',
     companyId: 417,
     name: 'Opiskelijaravintola Carelia',
@@ -373,7 +373,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [23.7779331, 61.49346079999999]},
+    location: { type: 'Point', coordinates: [23.7779331, 61.49346079999999] },
     _id: '6470d391cb12107db6fe2501',
     companyId: 815,
     name: 'Minerva',
@@ -385,7 +385,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.9354404, 60.2017311]},
+    location: { type: 'Point', coordinates: [24.9354404, 60.2017311] },
     _id: '6470d391cb12107db6fe2503',
     companyId: 83,
     name: 'Opetustalo',
@@ -397,7 +397,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [29.7463409, 62.60605829999999]},
+    location: { type: 'Point', coordinates: [29.7463409, 62.60605829999999] },
     _id: '6470d391cb12107db6fe2505',
     companyId: 433,
     name: 'Kampus Bistro',
@@ -409,7 +409,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.8057171, 60.18600780000001]},
+    location: { type: 'Point', coordinates: [24.8057171, 60.18600780000001] },
     _id: '6470d391cb12107db6fe2507',
     companyId: 3292,
     name: 'Laurea Otaniemen kampus',
@@ -421,7 +421,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [29.7782989, 62.59646850000001]},
+    location: { type: 'Point', coordinates: [29.7782989, 62.59646850000001] },
     _id: '6470d391cb12107db6fe2509',
     companyId: 447,
     name: 'Wire',
@@ -433,7 +433,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [27.6352768, 62.8920528]},
+    location: { type: 'Point', coordinates: [27.6352768, 62.8920528] },
     _id: '6470d391cb12107db6fe250b',
     companyId: 442,
     name: 'Itä-Suomen yliopisto/ Mediteknia',
@@ -445,7 +445,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [25.4203294, 64.80288469999999]},
+    location: { type: 'Point', coordinates: [25.4203294, 64.80288469999999] },
     _id: '6470d391cb12107db6fe250d',
     companyId: 231,
     name: 'Joutsenkartano',
@@ -457,7 +457,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.5149564, 64.07371549999999]},
+    location: { type: 'Point', coordinates: [24.5149564, 64.07371549999999] },
     _id: '6470d391cb12107db6fe250f',
     companyId: 3565,
     name: 'Messi',
@@ -469,7 +469,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [27.6411799, 62.8951821]},
+    location: { type: 'Point', coordinates: [27.6411799, 62.8951821] },
     _id: '6470d391cb12107db6fe2511',
     companyId: 436,
     name: 'Itä-Suomen yliopisto/Canthia',
@@ -481,7 +481,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.977768, 60.2094463]},
+    location: { type: 'Point', coordinates: [24.977768, 60.2094463] },
     _id: '6470d391cb12107db6fe2513',
     companyId: 1256,
     name: 'Arabianranta',
@@ -493,7 +493,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [29.7789469, 62.5887184]},
+    location: { type: 'Point', coordinates: [29.7789469, 62.5887184] },
     _id: '6470d391cb12107db6fe2519',
     companyId: 424,
     name: 'Solina',
@@ -505,7 +505,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [21.6160466, 63.0947465]},
+    location: { type: 'Point', coordinates: [21.6160466, 63.0947465] },
     _id: '6470d391cb12107db6fe251b',
     companyId: 3567,
     name: 'Cafe Hermes',
@@ -517,7 +517,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [29.7413311, 62.6050148]},
+    location: { type: 'Point', coordinates: [29.7413311, 62.6050148] },
     _id: '6470d391cb12107db6fe251d',
     companyId: 41702,
     name: 'Natura',
@@ -529,7 +529,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [25.7286139, 66.4967017]},
+    location: { type: 'Point', coordinates: [25.7286139, 66.4967017] },
     _id: '6470d391cb12107db6fe251f',
     companyId: 601,
     name: 'Kuukkeli',
@@ -541,7 +541,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.9352418, 60.173658]},
+    location: { type: 'Point', coordinates: [24.9352418, 60.173658] },
     _id: '6470d391cb12107db6fe2521',
     companyId: 3100,
     name: 'Klubi',
@@ -553,7 +553,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [25.0811604, 60.45285939999999]},
+    location: { type: 'Point', coordinates: [25.0811604, 60.45285939999999] },
     _id: '6470d391cb12107db6fe2523',
     companyId: 3623,
     name: 'Yolanda',
@@ -565,7 +565,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [25.7338487, 62.235725]},
+    location: { type: 'Point', coordinates: [25.7338487, 62.235725] },
     _id: '6470d391cb12107db6fe2525',
     companyId: 301,
     name: 'Jyväskylä YO, kirjasto Lähde, Ravintola Taide ja kahvila Tiede',
@@ -577,7 +577,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [25.044058, 60.294987]},
+    location: { type: 'Point', coordinates: [25.044058, 60.294987] },
     _id: '6470d392cb12107db6fe2527',
     companyId: 3032,
     name: 'Laurea Tikkurilan kampus',
@@ -589,7 +589,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.965514, 60.2015993]},
+    location: { type: 'Point', coordinates: [24.965514, 60.2015993] },
     _id: '6470d392cb12107db6fe2529',
     companyId: 3003,
     name: 'Arcada',
@@ -601,7 +601,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [25.0193211, 60.2230729]},
+    location: { type: 'Point', coordinates: [25.0193211, 60.2230729] },
     _id: '6470d392cb12107db6fe252b',
     companyId: 61,
     name: 'Tähkä',
@@ -613,7 +613,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [25.7219359, 66.481552]},
+    location: { type: 'Point', coordinates: [25.7219359, 66.481552] },
     _id: '6470d392cb12107db6fe252d',
     companyId: 605,
     name: 'Lapin AMK, Tekuila ja Cafe Lumen',
@@ -625,7 +625,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [21.6216448, 63.0873416]},
+    location: { type: 'Point', coordinates: [21.6216448, 63.0873416] },
     _id: '6470d392cb12107db6fe252f',
     companyId: 3597,
     name: 'Ravintola Wasa',
@@ -637,7 +637,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.969184, 60.1990235]},
+    location: { type: 'Point', coordinates: [24.969184, 60.1990235] },
     _id: '6470d392cb12107db6fe2531',
     companyId: 3104,
     name: 'DIAK Kalasatama',
@@ -649,7 +649,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [25.4703513, 65.00887039999999]},
+    location: { type: 'Point', coordinates: [25.4703513, 65.00887039999999] },
     _id: '6470d392cb12107db6fe2533',
     companyId: 1694,
     name: 'Kantakortteli',
@@ -661,7 +661,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [29.7413311, 62.6050148]},
+    location: { type: 'Point', coordinates: [29.7413311, 62.6050148] },
     _id: '6470d392cb12107db6fe2535',
     companyId: 41703,
     name: 'Wicked Rabbit Metria',
@@ -673,7 +673,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.5800774, 65.7535821]},
+    location: { type: 'Point', coordinates: [24.5800774, 65.7535821] },
     _id: '6470d392cb12107db6fe2537',
     companyId: 210,
     name: 'Lapin AMK, kahvila ja ravintola Lippo',
@@ -685,7 +685,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.8550865, 60.6264543]},
+    location: { type: 'Point', coordinates: [24.8550865, 60.6264543] },
     _id: '6470d392cb12107db6fe2539',
     companyId: 3058,
     name: 'Laurea Hyvinkään kampus',
@@ -697,7 +697,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.977768, 60.2094463]},
+    location: { type: 'Point', coordinates: [24.977768, 60.2094463] },
     _id: '6470d392cb12107db6fe253b',
     companyId: 1251,
     name: 'Luova',
@@ -709,7 +709,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [23.8589986, 61.4498286]},
+    location: { type: 'Point', coordinates: [23.8589986, 61.4498286] },
     _id: '6470d391cb12107db6fe2517',
     companyId: 812,
     name: 'Reaktori',
@@ -721,7 +721,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [25.7570866, 62.2408879]},
+    location: { type: 'Point', coordinates: [25.7570866, 62.2408879] },
     _id: '6470d392cb12107db6fe253d',
     companyId: 3364,
     name: 'Fiilu',
@@ -733,7 +733,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [27.6412062, 62.894351]},
+    location: { type: 'Point', coordinates: [27.6412062, 62.894351] },
     _id: '6470d391cb12107db6fe2515',
     companyId: 437,
     name: 'Itä-Suomen yliopisto/Snellmania',
@@ -745,7 +745,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.822108, 60.186776]},
+    location: { type: 'Point', coordinates: [24.822108, 60.186776] },
     _id: '6470d7ff15d0729ae37591b9',
     companyId: 86,
     name: 'Ravintola Aalto Tietotekniikantalo ',
@@ -757,7 +757,7 @@ const restaurants = [
     __v: 0,
   },
   {
-    location: {type: 'Point', coordinates: [24.829696, 60.188222]},
+    location: { type: 'Point', coordinates: [24.829696, 60.188222] },
     _id: '6470d857a7309cc578e0180b',
     companyId: 86,
     name: 'Ravintola Aalto Kvarkki ',
@@ -770,4 +770,15 @@ const restaurants = [
   },
 ];
 
-// your code here
+let map = L.map('map').setView([60.17083, 24.93750], 10);
+
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  maxZoom: 20,
+  attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+}).addTo(map);
+
+for (let r of restaurants) {
+  L.marker([r.location.coordinates[1], r.location.coordinates[0]])
+    .addTo(map)
+    .bindPopup(`<h3>${r.name}</h3><p>${r.address}</p>`);
+}

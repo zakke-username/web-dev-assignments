@@ -775,8 +775,8 @@ function distance(x1, y1, x2, y2) {
 }
 
 navigator.geolocation.getCurrentPosition((pos) => {
-  let userLat = pos.coords.latitude;
   let userLon = pos.coords.longitude;
+  let userLat = pos.coords.latitude;
 
   for (let r of restaurants) {
     let lon = r.location.coordinates[0];
