@@ -1,4 +1,3 @@
-// array for todo list
 const todoList = [
   {
     id: 1,
@@ -73,14 +72,15 @@ addButton.addEventListener('click', () => dialog.showModal());
 
 form.addEventListener('submit', (e) => {
   e.preventDefault();
-  todoList.push({
+  let item = {
     id: nextId++,
     task: newItemInput.value,
     completed: false,
-  });
+  };
+  todoList.push(item);
+  todoListElement.appendChild(createListItem(item));
   form.reset();
   dialog.close();
-  renderList();
   console.log(todoList);
 });
 
