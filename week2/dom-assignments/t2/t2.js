@@ -39,6 +39,7 @@ for (let item of todoList) {
   li.appendChild(checkbox);
 
   let label = document.createElement('label');
+  label.innerText = item.task;
   label.htmlFor = checkbox;
   li.appendChild(label);
 

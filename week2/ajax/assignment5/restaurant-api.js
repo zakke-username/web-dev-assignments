@@ -146,7 +146,7 @@ async function createMenuTable(id) {
   headers.appendChild(nameHeader);
 
   let dietHeader = document.createElement('th');
-  dietHeader.innerText = 'Allergens';
+  dietHeader.innerText = 'Diets';
   headers.appendChild(dietHeader);
 
   let priceHeader = document.createElement('th');
